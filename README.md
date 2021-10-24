@@ -7,12 +7,14 @@ Jennifer needs our help with a new project. Our goal is to analyze Amazon review
 ![Paid Review Count](Images/paid_review_count.PNG)
   - There are 40,471 total non-Vine reviews.\
 ![Unpaid Review Count](Images/unpaid_review_count.PNG)
-- There are 48 5-star Vine reviews.\
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+  - There are 48 5-star Vine reviews.\
 ![Five Star Paid Review Count](Images/five_star_paid_review_count.PNG)
-- There are 15,663 5-star non-Vine reviews.\
+  - There are 15,663 5-star non-Vine reviews.\
 ![Five Star Unpaid Review Count](Images/five_star_unpaid_review_count.PNG)
-- 51.06% of the Vine reviews are 5-star reviews.\
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  - 51.06% of the Vine reviews are 5-star reviews.\
 ![Five Star Paid Review Percentage](Images/five_star_paid_review_percentage.PNG)
-- 30.70% of the non-Vine reviews are 5-star reviews.\
+  - 30.70% of the non-Vine reviews are 5-star reviews.\
 ![Five Star Unpaid Review Percentage](Images/five_star_unpaid_review_percentage.PNG)
 ## Summary
