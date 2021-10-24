@@ -18,3 +18,4 @@ Jennifer needs our help with a new project. Our goal is to analyze Amazon review
   - 30.70% of the non-Vine reviews are 5-star reviews.\
 ![Five Star Unpaid Review Percentage](Images/five_star_unpaid_review_percentage.PNG)
 ## Summary
+When looking at the percentages of 5-star reviews of both Vine and non-Vine reviews, we can see there is positivity bias. The percentage of 5-star Vine reviews is 51.06% whereas the percentage of non-Vine reviews is 30.70%. However, there were only 94 total Vine reviews. Non-Vine members had 40,471 reviews. The sample sizes of each are significantly different from each other. Another analysis I would do with the dataset is to show the distribution of the data. I would create a histogram showing the distribution of star reviews.
